@@ -1,3 +1,5 @@
+Fork - Added python3 version of uacbypass.py - Big thanks for this script sailay1996!!
+
 # Fileless_UAC_bypass_WSReset
 
 #### updated :  if av detect getsystem.exe , use uacbypass.py  (using psexec to get system shell) 
